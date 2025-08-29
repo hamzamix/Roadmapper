@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project Roadmap & Ideas</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              'gray': { // This is a custom blue-gray theme
+                950: '#1d2029', // Sidebar BG
+                900: '#242832', // Main BG
+                800: '#2f3441', // Card BG, inputs
+                700: '#414755', // Borders, hover states
+                600: '#6c7282',
+                500: '#9fa6b8', // Muted text
+                400: '#b8c0d1', // Secondary text
+                300: '#d4d9e3', // Main text color
+                200: '#eef2f9',
+                100: '#f9fafb',
+              },
+              'indigo': {
+                600: '#6952de', // Main purple from screenshot
+                500: '#7c67e8', // Lighter purple for hover
+              },
+              'amber': {
+                400: '#f5b945', // Pinned border yellow from screenshot
+              }
+            }
+          }
+        }
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react": "https://aistudiocdn.com/react@^19.1.1",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.1.1/",
+    "react/": "https://aistudiocdn.com/react@^19.1.1/"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
