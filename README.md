@@ -31,6 +31,16 @@ This application runs entirely in your browser, using `localStorage` to persist 
   - **Persistent Settings**: Your theme preference is saved locally.
 - **Zero Backend**: All data is securely stored in your browser's `localStorage`. No sign-up required.
 
+## 📸 Screenshots
+
+Here's a preview of the LoanDash application:
+
+![Roadmapper Home Page - Dark Mode](https://raw.githubusercontent.com/hamzamix/Roadmapper/refs/heads/main/screenshots/projects.png)
+![Roadmapper Home Page - Dark Mode](https://raw.githubusercontent.com/hamzamix/Roadmapper/refs/heads/main/screenshots/projects-ideas.png)
+
+* [View More Screenshots](https://github.com/hamzamix/Roadmapper/tree/main/screenshots)
+
+
 ## 🛠️ Technology Stack
 
 - **Frontend**: [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/)
