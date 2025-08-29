@@ -1,6 +1,6 @@
 # Roadmapper - Project Roadmap & Idea Management
 
-![Roadmapper Screenshot](https://i.imgur.com/u74Yg4m.png)
+![Roadmapper logo](https://raw.githubusercontent.com/hamzamix/Roadmapper/refs/heads/main/Screenshots/logo.png)
 
 Roadmapper is a production-ready, client-side web application for project management, roadmapping, and idea note-taking. It's designed with a clean, minimalistic, and highly functional UI inspired by modern tools like Notion and Linear.
 
