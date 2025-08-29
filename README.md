@@ -35,10 +35,10 @@ This application runs entirely in your browser, using `localStorage` to persist 
 
 Here's a preview of the LoanDash application:
 
-![Roadmapper Home Page - Dark Mode](https://raw.githubusercontent.com/hamzamix/Roadmapper/refs/heads/main/screenshots/projects.png)
-![Roadmapper Home Page - Dark Mode](https://raw.githubusercontent.com/hamzamix/Roadmapper/refs/heads/main/screenshots/projects-ideas.png)
+![Roadmapper Home Page - Dark Mode](https://raw.githubusercontent.com/hamzamix/Roadmapper/refs/heads/main/Screenshots/projects.png)
+![Roadmapper Home Page - Dark Mode](https://raw.githubusercontent.com/hamzamix/Roadmapper/refs/heads/main/Screenshots/projects-ideas.png)
 
-* [View More Screenshots](https://github.com/hamzamix/Roadmapper/tree/main/screenshots)
+* [View More Screenshots](https://github.com/hamzamix/Roadmapper/tree/main/Screenshots)
 
 
 ## 🛠️ Technology Stack
